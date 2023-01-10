@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I am Fatih 
 
-- 🔭 I'm currently working as a software engineer at Siemens
-- 🌱 I’m currently learning Modern Cpp, Docker, Conan, CMake
+- 🔭 I'm currently working as a senior software engineer at Accenture
 - 📫 How to reach me: cengfatihbudak[at]gmail.com
